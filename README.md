@@ -1,4 +1,4 @@
-#Akshay Bhat: A Passionate Data Scientist and Leader
+# Akshay Bhat: A Passionate Data Scientist and Leader
 
 Born and raised in the vibrant city of Bangalore, India, Akshay Bhat’s journey in the field of Data Science began with a strong foundation in Robotics Engineering from KLE Technological University in 2020. His passion for technology and its potential to change the world led him to pursue further studies in Australia, a hub for technological innovation.
 
